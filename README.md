@@ -1,13 +1,15 @@
 # Sudoku_Solver
 
 
-This is a py script that solved Sudoku Boards, this is definitely not the cleanest, but it implements a backtracking/bruteforce algorithm
+This is a py script that solved Sudoku Boards. This is not the cleanest, but it implements a backtracking/brute-force algorithm
 
 
 # Usage
 
-```python3 Sudoku.py```
-It will then ask you to input the Sudoku board line by line, inputting 0's where the cell the empty.
+```
+python3 Sudoku.py
+```
+It will then ask you to input the Sudoku board line by line, inputting 0's where the cell is empty.
 
 # Example
 
